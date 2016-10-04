@@ -19,7 +19,15 @@ Did gyre and gimble in the wabe:
 
 All mimsy were the borogoves, 
 
-And the mome raths outgrabe. 
+And the mome raths outgrabe.
+
+“Beware the Jabberwock, my son! 
+
+The jaws that bite, the claws that catch! 
+
+Beware the Jubjub bird, and shun 
+
+The frumious Bandersnatch!” 
 
 ## Second Verse
 <Put the first two verses of The Road Not Taken by Robert Frost here>
